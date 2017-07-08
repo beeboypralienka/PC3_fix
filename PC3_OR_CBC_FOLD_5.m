@@ -30,7 +30,7 @@ for iFitur = 37 : -1 : 1 %Decrement
 %---
     for iFold = 1 : k
     %---            
-        
+        disp([iFitur,iFold]); % Sengaja ditambahain untuk liat progres RUN
         %-------------------------------------
         % Penetapan data TRAINING dan TESTING
         %-------------------------------------
